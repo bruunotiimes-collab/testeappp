@@ -1,0 +1,9 @@
+{
+    "name": "inova-los-form",
+    "version": "1.0.0",
+    "description": "Formulário de Avaliação INOVA LOS com Firebase",
+    "type": "module",
+    "dependencies": {
+        "firebase-admin": "^12.0.0"
+    }
+}
